@@ -1,0 +1,17 @@
+img {
+    width: 300px;
+}
+#thirdDiv {
+    height: 250px;
+    width: 300px;
+    background: rgb(0, 81, 255);
+    padding: 5px;
+}
+h1 {
+    color: royalblue;
+}
+body {background-color: salmon;
+}
+h1,p {
+    text-align:center;
+}
